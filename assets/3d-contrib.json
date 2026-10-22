@@ -1,0 +1,11 @@
+{
+  "type": "normal",
+  "fileName": "profile-dusk.svg",
+  "backgroundColor": "#110c24",
+  "foregroundColor": "#f4ecff",
+  "strongColor": "#ff9f1c",
+  "weakColor": "#8b80b0",
+  "radarColor": "#f15bb5",
+  "growingAnimation": true,
+  "contribColors": ["#1f1838", "#4a1942", "#8c2f6b", "#e0605a", "#ff9f1c"]
+}

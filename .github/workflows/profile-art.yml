@@ -1,0 +1,52 @@
+# Regenerates the contribution art in README.md from your real GitHub activity.
+name: Profile art
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # twice a day
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-light.svg?color_snake=#f15bb5&color_dots=#efeaf7,#ffd9a8,#ffb35c,#ff7a59,#e0405a
+            dist/snake-dark.svg?palette=github-dark&color_snake=#ff9f1c&color_dots=#1b1533,#4a1942,#8c2f6b,#e0605a,#ff9f1c
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  contrib-3d:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: assets/3d-contrib.json
+
+      - name: Commit & push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add profile-3d-contrib
+          if git commit -m "chore: refresh 3D contribution graph"; then
+            git push
+          fi
