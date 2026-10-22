@@ -63,9 +63,9 @@
 <img src="./profile-3d-contrib/profile-dusk.svg" width="100%" alt="3D contribution graph" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jai-Sainii/Jai-Sainii/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jai-Sainii/Jai-Sainii/output/snake-light.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/Jai-Sainii/Jai-Sainii/output/snake-dark.svg" alt="Snake eating my contribution graph" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jai-Sainiii/Jai-Sainiii/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jai-Sainiii/Jai-Sainiii/output/snake-light.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/Jai-Sainiii/Jai-Sainiii/output/snake-dark.svg" alt="Snake eating my contribution graph" />
 </picture>
 
 <br/><br/>
