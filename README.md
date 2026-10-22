@@ -8,7 +8,7 @@
 
 <a href="https://linkedin.com/in/jai-sainii"><img src="https://img.shields.io/badge/LinkedIn-jai--sainii-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=110C24" alt="LinkedIn" /></a>
 <a href="mailto:jaisaini4a@gmail.com"><img src="https://img.shields.io/badge/Email-jaisaini4a%40gmail.com-F15BB5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=110C24" alt="Email" /></a>
-<a href="https://github.com/Jai-Sainii?tab=repositories"><img src="https://img.shields.io/badge/Projects-explore-FF9F1C?style=for-the-badge&logo=github&logoColor=white&labelColor=110C24" alt="Projects" /></a>
+<a href="https://github.com/Jai-Sainiii?tab=repositories"><img src="https://img.shields.io/badge/Projects-explore-FF9F1C?style=for-the-badge&logo=github&logoColor=white&labelColor=110C24" alt="Projects" /></a>
 
 <br/><br/>
 
@@ -50,10 +50,10 @@
 
 <img src="./assets/title-stats.svg" width="100%" alt="GitHub stats" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Jai-Sainii&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=110C24&title_color=FF9F1C&text_color=E9DDFF&icon_color=F15BB5&ring_color=FF9F1C" alt="Jai's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jai-Sainii&layout=compact&langs_count=8&hide_border=true&bg_color=110C24&title_color=FF9F1C&text_color=E9DDFF" alt="Top languages" />
+<img height="165" src="https://my-github-stats-smoky.vercel.app/api?username=Jai-Sainiii&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=110C24&title_color=FF9F1C&text_color=E9DDFF&icon_color=F15BB5&ring_color=FF9F1C" alt="Jai's GitHub stats" />
+<img height="165" src="https://my-github-stats-smoky.vercel.app/api/top-langs/?username=Jai-Sainiii&layout=compact&langs_count=8&hide_border=true&bg_color=110C24&title_color=FF9F1C&text_color=E9DDFF" alt="Top languages" />
 
-<img width="100%" src="https://streak-stats.demolab.com/?user=Jai-Sainii&hide_border=true&background=110C24&stroke=2C2350&ring=FF9F1C&fire=F15BB5&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF9F1C&sideLabels=C9B6FF&dates=8B80B0" alt="Contribution streak" />
+<img width="100%" src="https://streak-stats.demolab.com/?user=Jai-Sainiii&hide_border=true&background=110C24&stroke=2C2350&ring=FF9F1C&fire=F15BB5&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF9F1C&sideLabels=C9B6FF&dates=8B80B0" alt="Contribution streak" />
 
 <br/><br/>
 
@@ -74,6 +74,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Jai-Sainii&label=PROFILE%20VIEWS&color=ff9f1c&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Jai-Sainiii&label=PROFILE%20VIEWS&color=ff9f1c&style=for-the-badge" alt="Profile views" />
 
 </div>
