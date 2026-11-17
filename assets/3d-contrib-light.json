@@ -1,0 +1,11 @@
+{
+  "type": "normal",
+  "fileName": "profile-light.svg",
+  "backgroundColor": "transparent",
+  "foregroundColor": "#1f2328",
+  "strongColor": "#1a7f37",
+  "weakColor": "#59636e",
+  "radarColor": "#1a7f37",
+  "growingAnimation": true,
+  "contribColors": ["#e6eaef", "#aceebb", "#4ac26b", "#2da44e", "#116329"]
+}

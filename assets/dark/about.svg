@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="406" viewBox="0 0 880 406" role="img" aria-label="About: full-stack developer building fully functional, deploy-ready websites, from commit to live. Currently learning Next.js and TypeScript. Open to freelance projects, collaborations, wild ideas. Core stack: React, Node + Express, MongoDB."><title>About: full-stack developer building fully functional, deploy-ready websites, from commit to live. Currently learning Next.js and TypeScript. Open to freelance projects, collaborations, wild ideas. Core stack: React, Node + Express, MongoDB.</title><style>.s{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}.m{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace}.fb{transform-box:fill-box}.pl{transform-origin:0 50%;animation:pl 6.5s linear infinite}
+    @keyframes pl{0%{transform:scaleX(0);opacity:1}52%,88%{transform:scaleX(1);opacity:1}97%,100%{transform:scaleX(1);opacity:0}}
+    .ph{animation:phd 6.5s linear infinite}
+    @keyframes phd{0%{transform:translateX(0);opacity:1}52%{transform:translateX(456px);opacity:1}55%,100%{transform:translateX(456px);opacity:0}}
+    .pn{transform-origin:center}
+    .pr{transform-origin:center;opacity:0;animation:pr 6.5s ease-out infinite}
+    @keyframes pr{0%,52%{transform:scale(1);opacity:0}53%{transform:scale(1);opacity:.7}68%,100%{transform:scale(2.8);opacity:0}}.pn0{animation:pn0 6.5s linear infinite}@keyframes pn0{0%{opacity:0;transform:scale(.3)}3%,88%{opacity:1;transform:scale(1)}97%,100%{opacity:0;transform:scale(1)}}.pn1{animation:pn1 6.5s linear infinite}@keyframes pn1{0%,17.33%{opacity:0;transform:scale(.3)}20.33%,88%{opacity:1;transform:scale(1)}97%,100%{opacity:0;transform:scale(1)}}.pn2{animation:pn2 6.5s linear infinite}@keyframes pn2{0%,34.67%{opacity:0;transform:scale(.3)}37.67%,88%{opacity:1;transform:scale(1)}97%,100%{opacity:0;transform:scale(1)}}.pn3{animation:pn3 6.5s linear infinite}@keyframes pn3{0%,52%{opacity:0;transform:scale(.3)}55%,88%{opacity:1;transform:scale(1)}97%,100%{opacity:0;transform:scale(1)}}.lc{stroke-dasharray:287.78;animation:lc 7s ease-in-out infinite}
+    @keyframes lc{0%{stroke-dashoffset:287.78;opacity:1}42%,88%{stroke-dashoffset:0;opacity:1}97%,100%{stroke-dashoffset:0;opacity:0}}
+    .la{animation:la 7s ease-in-out infinite}
+    @keyframes la{0%,22%{opacity:0}46%,88%{opacity:1}97%,100%{opacity:0}}
+    .ld{transform-origin:center;animation:ld 7s ease-in-out infinite}
+    @keyframes ld{0%,40%{opacity:0;transform:scale(.2)}46%,88%{opacity:1;transform:scale(1)}97%,100%{opacity:0;transform:scale(1)}}
+    .lr{transform-origin:center;opacity:0;animation:lr 7s ease-out infinite}
+    @keyframes lr{0%,44%{transform:scale(1);opacity:0}46%{transform:scale(1);opacity:.7}64%,100%{transform:scale(3.2);opacity:0}}.tk0{animation:tk0 7.5s cubic-bezier(.16,1,.3,1) infinite}@keyframes tk0{0%,8%{transform:translateX(-18px)}14%,92%{transform:translateX(0)}98%,100%{transform:translateX(-18px)}}
+      .to0{animation:to0 7.5s ease infinite}@keyframes to0{0%,8%{opacity:0}14%,92%{opacity:1}98%,100%{opacity:0}}.tk1{animation:tk1 7.5s cubic-bezier(.16,1,.3,1) infinite}@keyframes tk1{0%,17%{transform:translateX(-18px)}23%,92%{transform:translateX(0)}98%,100%{transform:translateX(-18px)}}
+      .to1{animation:to1 7.5s ease infinite}@keyframes to1{0%,17%{opacity:0}23%,92%{opacity:1}98%,100%{opacity:0}}.tk2{animation:tk2 7.5s cubic-bezier(.16,1,.3,1) infinite}@keyframes tk2{0%,26%{transform:translateX(-18px)}32%,92%{transform:translateX(0)}98%,100%{transform:translateX(-18px)}}
+      .to2{animation:to2 7.5s ease infinite}@keyframes to2{0%,26%{opacity:0}32%,92%{opacity:1}98%,100%{opacity:0}}.hp0{opacity:0;animation:hp0 5s linear infinite}@keyframes hp0{0%,2%{opacity:0;transform:translateX(0)}3%{opacity:1;transform:translateX(0)}19%{opacity:1;transform:translateX(44px)}20%,100%{opacity:0;transform:translateX(44px)}}.hp1{opacity:0;animation:hp1 5s linear infinite}@keyframes hp1{0%,26%{opacity:0;transform:translateX(0)}27%{opacity:1;transform:translateX(0)}43%{opacity:1;transform:translateX(44px)}44%,100%{opacity:0;transform:translateX(44px)}}.hp2{opacity:0;animation:hp2 5s linear infinite}@keyframes hp2{0%,56%{opacity:0;transform:translateX(0)}57%{opacity:1;transform:translateX(0)}73%{opacity:1;transform:translateX(-44px)}74%,100%{opacity:0;transform:translateX(-44px)}}.hp3{opacity:0;animation:hp3 5s linear infinite}@keyframes hp3{0%,80%{opacity:0;transform:translateX(0)}81%{opacity:1;transform:translateX(0)}97%{opacity:1;transform:translateX(-44px)}98%,100%{opacity:0;transform:translateX(-44px)}}.bx0{opacity:0;animation:bx0 5s ease infinite}@keyframes bx0{0%,3%{opacity:1}9%,93%{opacity:0}98%,100%{opacity:1}}.bx1{opacity:0;animation:bx1 5s ease infinite}@keyframes bx1{0%,17%{opacity:0}21%,27%{opacity:1}33%,70%{opacity:0}74%,81%{opacity:1}87%,100%{opacity:0}}.bx2{opacity:0;animation:bx2 5s ease infinite}@keyframes bx2{0%,41%{opacity:0}45%,57%{opacity:1}63%,100%{opacity:0}}@media (prefers-reduced-motion:reduce){*{animation:none!important}.bm{display:none}}</style>
+    <defs>
+      <linearGradient id="pg" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#3fb950"/><stop offset="1" stop-color="#2dd4bf"/></linearGradient>
+      <linearGradient id="ls" gradientUnits="userSpaceOnUse" x1="596" y1="0" x2="850" y2="0"><stop offset="0" stop-color="#3fb950"/><stop offset="1" stop-color="#2dd4bf"/></linearGradient>
+      <linearGradient id="lg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2dd4bf" stop-opacity=".3"/><stop offset="1" stop-color="#3fb950" stop-opacity="0"/></linearGradient>
+      <clipPath id="cb"><rect x="569" y="1" width="310" height="202" rx="13"/></clipPath>
+    </defs>
+    <rect x="0.5" y="0.5" width="555" height="203" rx="14" fill="#0d1117" stroke="#30363d"/>
+    <text class="s" x="32" y="62" font-size="25" font-weight="600" letter-spacing="-.2" fill="#f0f6fc" xml:space="preserve">Full-stack developer building fully</text><text class="s" x="32" y="96" font-size="25" font-weight="600" letter-spacing="-.2" fill="#f0f6fc" xml:space="preserve">functional, <tspan fill="#3fb950">deploy-ready</tspan> websites.</text>
+    <rect x="50" y="149" width="456" height="2" rx="1" fill="#30363d"/>
+    <rect class="fb pl" x="50" y="149" width="456" height="2" rx="1" fill="url(#pg)"/><circle cx="50" cy="150" r="6" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+      
+      <g class="fb pn pn0"><circle cx="50" cy="150" r="6.5" fill="#3fb950"/></g>
+      <text class="m" x="50" y="180" text-anchor="middle" font-size="12" fill="#9198a1">commit</text><circle cx="202" cy="150" r="6" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+      
+      <g class="fb pn pn1"><circle cx="202" cy="150" r="6.5" fill="#39c275"/></g>
+      <text class="m" x="202" y="180" text-anchor="middle" font-size="12" fill="#9198a1">build</text><circle cx="354" cy="150" r="6" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+      
+      <g class="fb pn pn2"><circle cx="354" cy="150" r="6.5" fill="#33cb9a"/></g>
+      <text class="m" x="354" y="180" text-anchor="middle" font-size="12" fill="#9198a1">deploy</text><circle cx="506" cy="150" r="6" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+      <circle class="fb pr" cx="506" cy="150" r="10" fill="none" stroke="#2dd4bf" stroke-width="1.5"/>
+      <g class="fb pn pn3"><circle cx="506" cy="150" r="10" fill="#2dd4bf"/><path d="M501.5,150.5 l3,3 l6,-6.5" fill="none" stroke="#010409" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+      <text class="m" x="506" y="180" text-anchor="middle" font-size="12" fill="#9198a1">live</text><circle class="ph" cx="50" cy="150" r="3.5" fill="#f0f6fc"/>
+
+    <rect x="568.5" y="0.5" width="311" height="203" rx="14" fill="#12201c" stroke="#366a45"/>
+    <g clip-path="url(#cb)">
+      <path class="la" d="M596,176 C698,176,778,164,850,70 L850,204 L596,204Z" fill="url(#lg)"/>
+      <path class="lc" d="M596,176 C698,176,778,164,850,70" fill="none" stroke="url(#ls)" stroke-width="2.5" stroke-linecap="round"/>
+      <circle class="fb lr" cx="850" cy="70" r="5" fill="none" stroke="#2dd4bf" stroke-width="1.5"/>
+      <circle class="fb ld" cx="850" cy="70" r="5" fill="#2dd4bf" stroke="#12201c" stroke-width="2"/>
+    </g>
+    <text class="s" x="596" y="44" font-size="13" font-weight="500" fill="#9198a1">Currently learning</text>
+    <text class="s" x="596" y="88" font-size="27" font-weight="700" letter-spacing="-.5" fill="#f0f6fc">Next.js</text><text class="s" x="596" y="124" font-size="27" font-weight="700" letter-spacing="-.5" fill="#f0f6fc">TypeScript</text>
+
+    <rect x="0.5" y="216.5" width="311" height="189" rx="14" fill="#0d1117" stroke="#30363d"/>
+    <text class="s" x="28" y="258" font-size="13" font-weight="500" fill="#9198a1">Open to</text>
+    <text class="s" x="28" y="298" font-size="19" font-weight="600" fill="#f0f6fc">Freelance projects</text>
+      <rect x="244" y="281" width="40" height="22" rx="11" fill="#30363d"/>
+      <rect class="to0" x="244" y="281" width="40" height="22" rx="11" fill="#3fb950"/>
+      <circle class="tk0" cx="273" cy="292" r="8" fill="#ffffff"/><text class="s" x="28" y="334" font-size="19" font-weight="600" fill="#f0f6fc">Collaborations</text>
+      <rect x="244" y="317" width="40" height="22" rx="11" fill="#30363d"/>
+      <rect class="to1" x="244" y="317" width="40" height="22" rx="11" fill="#36c788"/>
+      <circle class="tk1" cx="273" cy="328" r="8" fill="#ffffff"/><text class="s" x="28" y="370" font-size="19" font-weight="600" fill="#f0f6fc">Wild ideas</text>
+      <rect x="244" y="353" width="40" height="22" rx="11" fill="#30363d"/>
+      <rect class="to2" x="244" y="353" width="40" height="22" rx="11" fill="#2dd4bf"/>
+      <circle class="tk2" cx="273" cy="364" r="8" fill="#ffffff"/>
+
+    <rect x="324.5" y="216.5" width="555" height="189" rx="14" fill="#0d1117" stroke="#30363d"/>
+    <text class="s" x="356" y="258" font-size="13" font-weight="500" fill="#9198a1">Core stack</text>
+    <path d="M486,316 H534 M486,330 H534" stroke="#30363d" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="1 6"/><path d="M670,316 H718 M670,330 H718" stroke="#30363d" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="1 6"/><rect class="hp0" x="481" y="313.5" width="14" height="5" rx="2.5" fill="#3fb950"/><rect class="hp1" x="665" y="313.5" width="14" height="5" rx="2.5" fill="#3fb950"/><rect class="hp2" x="709" y="327.5" width="14" height="5" rx="2.5" fill="#2dd4bf"/><rect class="hp3" x="525" y="327.5" width="14" height="5" rx="2.5" fill="#2dd4bf"/><rect x="356.5" y="284.5" width="123" height="77" rx="10" fill="#151b23" stroke="#30363d"/>
+      <rect class="bx0" x="356.5" y="284.5" width="123" height="77" rx="10" fill="#1a2e28" stroke="#3fb950" stroke-width="1.5"/>
+      <text class="m" x="418" y="320" text-anchor="middle" font-size="14.5" font-weight="700" fill="#f0f6fc">React</text>
+      <text class="s" x="418" y="340" text-anchor="middle" font-size="12.5" fill="#9198a1">client</text><rect x="540.5" y="284.5" width="123" height="77" rx="10" fill="#151b23" stroke="#30363d"/>
+      <rect class="bx1" x="540.5" y="284.5" width="123" height="77" rx="10" fill="#1a2e28" stroke="#36c788" stroke-width="1.5"/>
+      <text class="m" x="602" y="320" text-anchor="middle" font-size="14.5" font-weight="700" fill="#f0f6fc">Node + Express</text>
+      <text class="s" x="602" y="340" text-anchor="middle" font-size="12.5" fill="#9198a1">server</text><rect x="724.5" y="284.5" width="123" height="77" rx="10" fill="#151b23" stroke="#30363d"/>
+      <rect class="bx2" x="724.5" y="284.5" width="123" height="77" rx="10" fill="#1a2e28" stroke="#2dd4bf" stroke-width="1.5"/>
+      <text class="m" x="786" y="320" text-anchor="middle" font-size="14.5" font-weight="700" fill="#f0f6fc">MongoDB</text>
+      <text class="s" x="786" y="340" text-anchor="middle" font-size="12.5" fill="#9198a1">database</text></svg>

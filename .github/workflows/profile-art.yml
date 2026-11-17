@@ -20,8 +20,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake-light.svg?color_snake=#f15bb5&color_dots=#efeaf7,#ffd9a8,#ffb35c,#ff7a59,#e0405a
-            dist/snake-dark.svg?palette=github-dark&color_snake=#ff9f1c&color_dots=#1b1533,#4a1942,#8c2f6b,#e0605a,#ff9f1c
+            dist/snake-light.svg?color_snake=#1f2328&color_dots=#e6eaef,#aceebb,#4ac26b,#2da44e,#116329
+            dist/snake-dark.svg?color_snake=#f0f6fc&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
@@ -36,11 +36,20 @@ jobs:
     steps:
       - uses: actions/checkout@v5
 
-      - uses: yoshi389111/github-profile-3d-contrib@latest
+      # One run per theme; each writes its own file into profile-3d-contrib/.
+      - name: 3D graph (dark)
+        uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: assets/3d-contrib.json
+          SETTING_JSON: assets/3d-contrib-dark.json
+
+      - name: 3D graph (light)
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: assets/3d-contrib-light.json
 
       - name: Commit & push
         run: |
